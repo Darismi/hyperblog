@@ -10,5 +10,7 @@
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 * creado por el increible platzi team
 
+* incluye ejemplos en windows linux y mac
+* disponible en todas las edades
 # Editor.md
 
